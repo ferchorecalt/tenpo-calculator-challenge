@@ -19,7 +19,7 @@
 		<spring-security.version>5.3.2.RELEASE</spring-security.version>
 		<jsonwebtoken.version>0.9.1</jsonwebtoken.version>
 		<org.postgresql.version>42.2.12</org.postgresql.version>
-		<junit.version>4.13</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<h2.version>1.4.200</h2.version>
 		<apache-commons.version>3.10</apache-commons.version>
 		<maven-surefire.version>2.21.0</maven-surefire.version>
