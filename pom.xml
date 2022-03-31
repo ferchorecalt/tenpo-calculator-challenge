@@ -15,7 +15,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<spring-boot-starter.version>2.3.0.RELEASE</spring-boot-starter.version>
+		<spring-boot-starter.version>2.5.12</spring-boot-starter.version>
 		<spring-security.version>5.3.2.RELEASE</spring-security.version>
 		<jsonwebtoken.version>0.9.1</jsonwebtoken.version>
 		<org.postgresql.version>42.2.12</org.postgresql.version>
